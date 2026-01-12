@@ -23,6 +23,17 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
+    - name: Debug versions and layout
+      run: |
+        python -V
+        pip -V
+        pip show jupyter-book || true
+        jupyter-book --version || true
+        jupyter book --version || true
+        ls -als
+        echo "---- _config.yml ----" && (test -f _config.yml && head -n 80 _config.yml || echo "missing")
+        echo "---- _toc.yml ----" && (test -f _toc.yml && head -n 120 _toc.yml || echo "missing")
+
     - name: Build the book
       run: |
         jupyter-book build .
