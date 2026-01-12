@@ -5,41 +5,38 @@ on:
     branches:
     - main
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   deploy-book:
     runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
+    
     steps:
     - uses: actions/checkout@v6
 
-    - name: Set up Python 3.13
+    - name: Set up Python 3.11
       uses: actions/setup-python@v6
       with:
-        python-version: 3.13
+        python-version: 3.11
         cache: pip
 
     - name: Install dependencies
-      run: pip install -r requirements.txt
-
-    - name: Debug versions and layout
       run: |
-        python -V
-        pip -V
-        pip show jupyter-book || true
-        jupyter-book --version || true
-        jupyter book --version || true
-        ls -als
-        echo "---- _config.yml ----" && (test -f _config.yml && head -n 80 _config.yml || echo "missing")
-        echo "---- _toc.yml ----" && (test -f _toc.yml && head -n 120 _toc.yml || echo "missing")
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip show jupyter-book
+        jupyter-book --version
 
     - name: Build the book
       run: |
-        jupyter-book build .
+        jupyter-book build --all .
+        ls -la _build/html
 
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v3
+      uses: actions/upload-pages-artifact@v4
       with:
         path: "_build/html"
 
