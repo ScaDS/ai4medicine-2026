@@ -1,0 +1,53 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  
+  - caption: Preparation
+    chapters:
+    - file: day0_preparation/readme.md
+
+  - caption: Day 1
+    chapters:
+    - file: day1.1_python-tools/readme.md
+      sections:
+      - file: day1.1_python-tools/01_notebook.ipynb
+
+    - file: day1.2_python-data/readme.md
+      sections:
+      - file: day1.2_python-data/01_notebook.ipynb
+
+    - file: day1.3_ml-basics/readme.md
+      sections:
+      - file: day1.3_ml-basics/01_notebook.ipynb
+
+  - caption: Day 2
+    chapters:
+    - file: day2.1_rdm-medicine/readme.md
+
+    - file: day2.2_dl-basics/readme.md
+      sections:
+      - file: day2.2_dl-basics/01_notebook.ipynb
+    
+    - file: day2.3_explainability/readme.md
+      sections:
+      - file: day2.3_explainability/01_notebook.ipynb
+      
+  - caption: Day 3
+    chapters:
+    - file: day3.1_ml-application/readme.md
+      sections:
+      - file: day3.1_ml-application/01_notebook.ipynb
+
+    - file: day3.2_dl-application/readme.md
+      sections:
+      - file: day3.2_dl-application/01_notebook.ipynb
+
+  - caption: Information
+    chapters:
+    - file: CONDUCT
+    - file: CONTRIBUTING
+    - file: LICENSE
+    - file: imprint
