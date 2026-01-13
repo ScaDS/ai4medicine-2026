@@ -1,10 +1,11 @@
 # Data Science and AI for Medicine Training School 2026
 
-This is the website of the Data Science and AI for Medicine Training School 2026, conducted by [Come2Data](https://come2data.de/) and [ScaDS.AI](https://scads.ai/). We provide all training materials and information about the training school on this page.
+This is the website of the Data Science and AI for Medicine Training School 2026, conducted by [Come2Data](https://come2data.de/) and [ScaDS.AI](https://scads.ai/).  
+We provide all training materials and information about the training school on this page.
 
 ---
 
-## *This website is under heavy construction. Please come back later.*
+## *This website is currently under heavy construction. Please check back later.*
 
 ---
 
@@ -14,14 +15,23 @@ This is the website of the Data Science and AI for Medicine Training School 2026
   * Day 1 - Thursday Feb 26, 2026 - Python Tools and Machine Learning (ML) Basics
   * Day 2 - Thursday Mar 12, 2026 - Research Data Management and Deep Learning (DL) Basics
   * Day 3 - Friday Mar 20, 2026 - ML / DL Applications in Medicine
-* Place: Bibliothek­ Medizin/Naturwissenschaften, Liebigstraße 23/25, 04103 Leipzig
+
+* Location: Bibliothek­ Medizin/Naturwissenschaften, Liebigstraße 23/25, 04103 Leipzig
+
 * Target audience: Students and scientists from the medical field with interest in learning Data Science and AI using Python.
-* Prerequisites for participation:
-  * Confident use of your own laptop and operating system
-  * Basic knowledge of using the terminal / PowerShell
-  * Familiar with the Python programming language
-  * Familiar with virtual environments and package management in Python
-* [Registration](https://events.scads.ai/e/ai4medicine-2026-1) is open from Friday, 16. Jan 2026 at 18:00 to Friday, 13. Feb 2026 at 23:59, with limited places available.
+
+* **Prerequisites for participation:**  
+  ✔ Confident use of your own laptop and operating system  
+  ✔ Basic knowledge of using the terminal / PowerShell  
+  ✔ Familiar with the Python programming language  
+  ✔ Familiar with virtual environments and package management in Python  
+* **Preparation & Materials**  
+  🔗 [W3Schools Python basics](https://www.w3schools.com/python/default.asp)  
+  🔗 [Training materials “Data Science and AI for Medicine 2025”](https://scads.github.io/ai4medicine-2025/intro.html)  
+  🔗 [RealPython Virtual environments in Python](https://realpython.com/python-virtual-environments-a-primer/)  
+  🔗 [Python package management with uv](https://docs.astral.sh/uv/)  
+
+* **[Registration](https://events.scads.ai/e/ai4medicine-2026-1)** is open from Friday, 16. Jan 2026 at 18:00 to Friday, 13. Feb 2026 at 23:59, with limited places available.
 
 ## Trainers
 
