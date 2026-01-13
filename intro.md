@@ -21,13 +21,14 @@ This is the website of the Data Science and AI for Medicine Training School 2026
   * Basic knowledge of using the terminal / PowerShell
   * Familiar with the Python programming language
   * Familiar with virtual environments and package management in Python
-* Registration is open from Friday, 16. Jan 2026 at 18:00 to Friday, 13. Feb 2026 at 23:59, and limited to 25 participants: https://events.scads.ai/e/ai4medicine-2026-1
+* [Registration](https://events.scads.ai/e/ai4medicine-2026-1) is open from Friday, 16. Jan 2026 at 18:00 to Friday, 13. Feb 2026 at 23:59, with limited places available.
 
 ## Trainers
 
 * Marie Gerwek, IMISE / Medical Data Science, Universitätsklinikum Leipzig
 * Michaela Unger, Clinical AI / Kather lab / EKFZ, TU Dresden
-* Matthias Täschner, ScaDS.AI, Uni Leipzig
+* Lea Kabjesz, DSC ScaDS.AI, Uni Leipzig
+* Matthias Täschner, DSC ScaDS.AI, Uni Leipzig
 
 ## Program
 
@@ -42,7 +43,7 @@ This is the website of the Data Science and AI for Medicine Training School 2026
 14:00-15:00 Machine Learning: Introduction and Basics
 15:00-15:30 Coffee break
 15:30-17:00 Machine Learning: Introduction and Basics
-17:00-18:00 Wrap up & Questions: Open for further questions and support, or discussing your research and data
+17:00-18:00 Wrap up & Questions: Open for further questions and support
 </pre>
 
 ### Thursday Mar 12, 2026
@@ -56,7 +57,7 @@ This is the website of the Data Science and AI for Medicine Training School 2026
 13:00-15:00 Deep Learning: Introduction and Basics
 15:00-15:30 Coffee break
 15:30-17:00 Explainability of ML/DL Models
-17:00-18:00 Wrap up & Questions: Open for further questions and support, or discussing your research and data
+17:00-18:00 Wrap up & Questions: Open for further questions and support
 </pre>
 
 ### Friday Mar 20, 2026
@@ -70,7 +71,7 @@ This is the website of the Data Science and AI for Medicine Training School 2026
 13:00-15:00 Deep Learning: Application with Large Language Models
 15:00-15:30 Coffee break
 15:30-17:00 Deep Learning: Application with Large Language Models
-17:00-18:00 Wrap up & Questions: Open for further questions and support, or discussing your research and data
+17:00-18:00 Wrap up & Questions: Open for further questions and support
 </pre>
 
 ## Slides
