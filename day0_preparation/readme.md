@@ -12,7 +12,8 @@ Although we will also use computing resources of the University of Leipzig's Com
 
 ## 1. Install and verify Python
 
-* If Python is not already available on your system (see verify step below), install it: https://www.python.org/downloads/ _(version 3.11 or higher)_
+* If Python is not already available on your system (see verify step below), install it:  
+  https://www.python.org/downloads/ _(version 3.11 or higher)_
 * In the Windows installer, make sure that “Add Python to PATH” is checked
 * After installation, verify in your terminal (shall display the version):
 
@@ -38,7 +39,7 @@ uv --version
 ## 3. Create a virtual environment (venv)
 
 * Create a folder `ai4medicine`, e.g. on your desktop
-* Download the file [`pyproject.toml`](https://github.com/ScaDS/ai4medicine-2026/blob/main/pyproject.toml), save it in this folder
+* Download the file [`pyproject.toml`](../pyproject.toml), save it in this folder
 * Open the terminal and navigate to this folder:
 
 ```bash
@@ -63,7 +64,8 @@ uv run jupyter lab
 ```
 
 * Your browser should now open JupyterLab
-* If it doesn't, copy the URL displayed in the terminal into your browser (should start with `http://localhost:8888/lab?token=...`)
+* If it doesn't, copy the URL displayed in the terminal into your browser  
+  (should start with `http://localhost:8888/lab?token=...`)
 * To stop JupyterLab, press in the terminal:
 
 ```text
@@ -72,7 +74,7 @@ Ctrl + C
 
 > **If everything worked: Congratulations! You are done and prepared for the training school.**  
 >
-> **If you encounter an problems, please reach out via [email](mailto:matthias.taeschner@uni-leipzig.de?subject=AI4Medicine%20School%202026%20Preparation)**
+> **If you encounter any problems, please reach out via [email](mailto:matthias.taeschner@uni-leipzig.de?subject=AI4Medicine%20School%202026%20Preparation)**
 
 ## Download the Files for the Practical Exercise
 
