@@ -38,7 +38,7 @@ This is the website of the Data Science and AI for Medicine Training School 2026
 09:00-09:30 Welcome and organizational
 09:30-12:00 Python: Basics and Tools Review
 12:00-13:00 Lunch
-13:00-14:00 Data Management: Data Handling with Python
+13:00-14:00 Python: Data Handling and Preprocessing
 14:00-15:00 Machine Learning: Introduction and Basics
 15:00-15:30 Coffee break
 15:30-17:00 Machine Learning: Introduction and Basics
@@ -63,13 +63,13 @@ This is the website of the Data Science and AI for Medicine Training School 2026
 
 <pre>
 08:30-09:00 Arrival
-09:00-10:30 Machine Learning Application on Tabular Data
+09:00-10:30 Machine Learning: Application on Tabular Data
 10:30-11:00 Coffee break
-11:00-12:00 Machine Learning Application on Tabular Data
+11:00-12:00 Machine Learning: Application on Tabular Data
 12:00-13:00 Lunch
-13:00-15:00 Deep Learning Application with Large Language Models
+13:00-15:00 Deep Learning: Application with Large Language Models
 15:00-15:30 Coffee break
-15:30-17:00 Deep Learning Application with Large Language Models
+15:30-17:00 Deep Learning: Application with Large Language Models
 17:00-18:00 Wrap up & Questions: Open for further questions and support, or discussing your research and data
 </pre>
 
