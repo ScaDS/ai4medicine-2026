@@ -1,0 +1,27 @@
+# Guide (user-friendly):
+# https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
+
+[project]
+name = "ai4medicine2026"
+version = "0.0.1"
+description = "Data Science and AI for Medicine Training School 2026 - Materials"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+  "bia-bob",
+  "ipykernel",
+  "ipywidgets",
+  "jupyterlab",
+  "matplotlib",
+  "notebook",
+  "numpy",
+  "pandas",
+  "python-dotenv",
+  "scikit-learn",
+  "seaborn",
+  "shap>=0.50",
+  "torch",
+  "torchvision",
+  "tqdm",
+]
+[tool.uv]
+package = false

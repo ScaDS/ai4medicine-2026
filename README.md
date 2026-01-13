@@ -12,8 +12,16 @@ The following instructions are just for contributors and trainers.
 
 ### Python Environment and Dependencies
 
-* We maintain a common uv environment based on [pyproject.toml](day0_preparation/pyproject.toml)
-* If you want to make use of specific Python libraries for your session, add them there
+* We maintain a common Python environment via [`uv`](https://docs.astral.sh/uv/), based on:
+  * [pyproject.toml](pyproject.toml)
+  * [uv.lock](uv.lock)
+* [Install `uv`](https://docs.astral.sh/uv/getting-started/installation/) on your system
+* To initially build the Python venv locally via `uv`, in "ai4medicine-2026", run:
+  * `uv sync`
+* To add any needed Python dependency, run:
+  * `uv add <package>`
+  * `uv` adds according entries to pyproject.toml and uv.lock automatically
+  * Commit and push both updated files
 
 ### Slides
 
