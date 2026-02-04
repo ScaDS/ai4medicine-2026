@@ -23,7 +23,9 @@ parts:
 
     - file: day1.3_ml-basics/readme.md
       sections:
-      - file: day1.3_ml-basics/01_notebook.ipynb
+      - file: day1.3_ml-basics/01_regression.ipynb
+      - file: day1.3_ml-basics/02_random-forest.ipynb
+      - file: day1.3_ml-basics/03_clustering.ipynb
 
   - caption: Day 2
     chapters:
