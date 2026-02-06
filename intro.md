@@ -60,9 +60,9 @@ We provide all training materials and information about the training school on t
 
 <pre>
 08:30-09:00 Arrival
-09:00-10:30 Research Data Management in Medicine
-10:30-11:00 Coffee break
-11:00-12:00 Deep Learning: Introduction and Basics
+09:00-11:00 Research Data Management in Medicine
+11:00-11:15 Coffee break
+11:15-12:00 Deep Learning: Introduction and Basics
 12:00-13:00 Lunch
 13:00-15:00 Deep Learning: Introduction and Basics
 15:00-15:30 Coffee break
