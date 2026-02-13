@@ -26,6 +26,8 @@ parts:
       - file: day1.3_ml-basics/01_regression.ipynb
       - file: day1.3_ml-basics/02_random-forest.ipynb
       - file: day1.3_ml-basics/03_clustering.ipynb
+      - file: day1.3_ml-basics/04_dimension.ipynb
+      - file: day1.3_ml-basics/05_exercise.ipynb
 
   - caption: Day 2
     chapters:
