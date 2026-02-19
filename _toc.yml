@@ -19,7 +19,9 @@ parts:
 
     - file: day1.2_python-data/readme.md
       sections:
-      - file: day1.2_python-data/01_notebook.ipynb
+      - file: day1.2_python-data/1_Pandas_Introduction.ipynb
+      - file: day1.2_python-data/2_Data_Cleaning.ipynb
+      - file: day1.2_python-data/3_Data_Transformation.ipynb
 
     - file: day1.3_ml-basics/readme.md
       sections:
