@@ -21,7 +21,7 @@ We provide all training materials and information about the training school on t
 * Target audience: Students and scientists from the medical field with interest in learning Data Science and AI using Python.
 
 * **Prerequisites for participation:**  
-  ✔ Prepared your laptop like described [here](day0_preparation/readme.md)
+  ✔ Prepared your laptop like described [here](day0_preparation/readme.md)  
   ✔ Confident use of your own laptop and operating system  
   ✔ Basic knowledge of using the terminal / PowerShell  
   ✔ Familiar with the Python programming language  
