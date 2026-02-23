@@ -5,7 +5,7 @@ We provide all training materials and information about the training school on t
 
 ---
 
-## *This website is currently under heavy construction. Please check back later.*
+**The content for Day 2 and Day 3 is still being worked on. Please check back later.**
 
 ---
 
@@ -21,6 +21,7 @@ We provide all training materials and information about the training school on t
 * Target audience: Students and scientists from the medical field with interest in learning Data Science and AI using Python.
 
 * **Prerequisites for participation:**  
+  ✔ Prepared your laptop like described [here](day0_preparation/readme.md)
   ✔ Confident use of your own laptop and operating system  
   ✔ Basic knowledge of using the terminal / PowerShell  
   ✔ Familiar with the Python programming language  
