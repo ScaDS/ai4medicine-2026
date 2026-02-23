@@ -78,4 +78,8 @@ Ctrl + C
 
 ## Download the Files for the Practical Exercise
 
-A few days before the start of the training school, the notebooks and files for the practical exercises will be made available as a ZIP file [here](notebooks_download.zip).
+A few days before the start of the training school, the notebooks and files for the practical exercises will be made available as a ZIP file here:
+
+* [day1_downloads.zip](day1_downloads.zip)
+* [day2_downloads.zip](day2_downloads.zip)
+* [day3_downloads.zip](day3_downloads.zip)
