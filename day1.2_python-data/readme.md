@@ -26,4 +26,4 @@ This session provides an introduction to **data preprocessing in Python** using 
 - Feature Engineering
 - Normalization and Scaling
 
-Slides used for this session can be downloaded as PDF [here](Data Handling and Preprocessing.pdf)
+Slides used for this session can be downloaded as PDF [here](Data_Handling_Preprocessing.pdf)
