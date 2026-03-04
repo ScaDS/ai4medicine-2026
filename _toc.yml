@@ -36,7 +36,7 @@ parts:
 
     - file: day2.2_dl-basics/readme.md
       sections:
-      - file: day2.2_dl-basics/01_notebook.ipynb
+      - file: day2.2_dl-basics/01_neural_networks.ipynb
     
     - file: day2.3_explainability/readme.md
       sections:
