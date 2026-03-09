@@ -40,7 +40,7 @@ parts:
     
     - file: day2.3_explainability/readme.md
       sections:
-      - file: day2.3_explainability/01_notebook.ipynb
+      - file: day2.3_explainability/01_explainability.ipynb
       
   - caption: Day 3
     chapters:
