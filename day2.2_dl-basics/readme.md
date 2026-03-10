@@ -15,7 +15,7 @@ Please login to your Google account.
 
 **2 IMPORTANT HINTS:**
 1. Please open the notebooks over the links down here. This will first give you a page with a lot of text. 
-In the upper right corner there should be a botton with "Open with Google Collaboratory". Please click on this.
+In the upper right corner there should be a button with "Open with Google Collaboratory". Please click on this.
 * [01 Neural Networks](https://drive.google.com/file/d/121NTe-6RvQ8GmFxXgiY8ySe35BDWX8R2/view?usp=sharing)
 * [02 Convolutional Neural Networks](https://drive.google.com/file/d/1T1pnVCjIYlyFpgLbQTIN7BGitmcmK4wN/view?usp=sharing)
 * [03 Autoencoders Exercise](https://colab.research.google.com/drive/1r5-UniBHGVb_nUi2aPn7sIf7LGn7bucw?usp=sharing)
