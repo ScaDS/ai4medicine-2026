@@ -37,6 +37,13 @@ parts:
     - file: day2.2_dl-basics/readme.md
       sections:
       - file: day2.2_dl-basics/01_neural_networks.ipynb
+      - file: day2.2_dl-basics/02_Convolutional_Neural_Networks.ipynb
+      - file: day2.2_dl-basics/03_Auto_Encoders_exercise.ipynb
+      - file: day2.2_dl-basics/03_Auto_Encoders_solutions.ipynb
+      - file: day2.2_dl-basics/04_LSTMs_exercise.ipynb
+      - file: day2.2_dl-basics/04_LSTMs_solutions.ipynb
+      - file: day2.2_dl-basics/05_CNNs_exercise.ipynb
+      - file: day2.2_dl-basics/05_CNNs_solutions.ipynb
     
     - file: day2.3_explainability/readme.md
       sections:
