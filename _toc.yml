@@ -53,7 +53,8 @@ parts:
     chapters:
     - file: day3.1_ml-application/readme.md
       sections:
-      - file: day3.1_ml-application/01_notebook.ipynb
+      - file: day3.1_ml-application/01a_segmentation-exercise.ipynb
+      - file: day3.1_ml-application/01b_segmentation-solution.ipynb
 
     - file: day3.2_dl-application/readme.md
       sections:

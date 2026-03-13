@@ -1,4 +1,3 @@
 # Machine Learning on Tabular Data
 
-* Applications of Machine Learning
-* Regression and Classification
+Comprehensive exercices for the application of Machine Learning covering data exploration, clustering, regression, and classification.

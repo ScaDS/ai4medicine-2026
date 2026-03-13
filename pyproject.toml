@@ -18,7 +18,7 @@ dependencies = [
   "python-dotenv",
   "scikit-learn",
   "seaborn",
-  "shap>=0.50",
+  "shap",
   "torch",
   "torchvision",
   "tqdm",
