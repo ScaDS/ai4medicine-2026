@@ -82,4 +82,4 @@ A few days before the start of the training school, the notebooks and files for 
 
 * [day1_downloads.zip](day1_downloads.zip)
 * [day2_downloads.zip](day2_downloads.zip) (includes materials from day1 and day2)
-* [day3_downloads.zip](day3_downloads.zip)
+* [day3_downloads.zip](day3_downloads.zip) (includes materials from day1, day2, and day3)
