@@ -9,9 +9,9 @@ What we will do today:
 
 Slides used for this session can be downloaded as PDF [here](deep_learning_introduction.pdf).
 
-We will use the Jupyter Notebooks today not over our terminal but in Google Colab.  
-Google Colab can be used as a coding environment and provides us with computational resouces like GPUs.  
-Please login to your Google account.  
+We will use the jupyter notebooks today not over our terminal but in Google Colab. 
+Google Colab can be used as a coding environment and provides us with computational resouces like GPUs.
+Please login to your Google account.
 
 **2 IMPORTANT HINTS:**
 1. Please open the notebooks over the links down here. This will first give you a page with a lot of text. 
